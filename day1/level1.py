@@ -29,6 +29,6 @@ print(name +" "+ surname)
 #print(type(surname))
 #print(type(height))
 #print(type(knows_programming))
-
+ 
 print(name + " " +str(age))
 
