@@ -1,0 +1,29 @@
+name = "zura"
+last_name = "gvalia"
+
+age = 12
+country ="georgia"
+
+print(name,last_name,age,country)
+
+
+name = input("What is your name")
+last_name = input("What is your last name")
+age = input("What is your age")
+country = input("Witch country do you live")
+
+print("my name is" + name + "my last_name" + last_name + "im"+ age +"yers old" + "i live" + country)
+
+
+age = input("12")
+print(type(age))
+
+
+x = int(input("zura"))
+y = int(input("gvalia"))
+
+print(x + y)
+
+
+
+
